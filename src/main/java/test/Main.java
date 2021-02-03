@@ -6,5 +6,6 @@ public class Main {
         System.out.println("hello");
         System.out.println("hi222");
         System.out.println("33333333333");
+        System.out.println("-----------------------------");
     }
 }
